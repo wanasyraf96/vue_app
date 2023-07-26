@@ -1,0 +1,7 @@
+{
+  "assets": [
+    { "name": "Printer", "department": "HR" },
+    { "name": "Monitor", "department": "IT" },
+    { "name": "Barcode Scanner", "department": "ACCOUNT" }
+  ]
+}
